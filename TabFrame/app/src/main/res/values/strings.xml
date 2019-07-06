@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabFrame</string>
+    <string name="home_fragment">Ini adalah Home Fragment</string>
+    <string name="java_fragment">Ini adalah Fragment Java</string>
+    <string name="android_fragment">Ini adalah Fragment Android</string>
+    <string name="php_fragment">Ini adalah Fragment PHP</string>
+</resources>

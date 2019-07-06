@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListCard</string>
+    <string name="heroes_name">Bambang Ariyanto</string>
+    <string name="from">Pontianak</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="description">Keterangan Here</string>
+</resources>
