@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             };
 
-            InputStream is = getAssets().open("file.xml");
+            InputStream is = getResources().openRawResource(R.raw.file);
             parser.parse(is, handler);
 
 
